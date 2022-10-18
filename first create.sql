@@ -8,7 +8,7 @@ zipcode int,
 mobilenumber int);
 
 insert into customer (cust_id,first_name,address,state,city,zipcode,mobilenumber)
-values('1','Nabeela','1234 Street','Colorado','Aurora','3456','76543218');
+values('4','Nizam','12344 Street','Colorado','Aurora','3456','77843218');
 
 show databases;
 use nabsql;
